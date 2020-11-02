@@ -4,6 +4,7 @@ paper for “Multiscale space-time-frequency feature-guided multitask learning C
 Installation
 
 pip install pytorch
+
 pip install mne == 1.90
 
 
